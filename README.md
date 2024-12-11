@@ -3,7 +3,7 @@
 ## Añadan un nuevo jugador Alice que responda aleatoriamente.
 
 * Creo una clase JugadorAlice que extiende dela clase Jugador.
-* Implemento el método aleatorio para que Alice elija aleatoriamente entre ROBAR y COLABORAR.
+* Implemento el método decidirAccion para que Alice elija aleatoriamente entre ROBAR y COLABORAR.
 
 ### Comentarios acerca de la tarea
 
