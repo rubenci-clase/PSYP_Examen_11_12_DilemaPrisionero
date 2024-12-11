@@ -11,18 +11,34 @@
 * alice jugando 5 partidas contra ratero
 ![image](https://github.com/user-attachments/assets/ad7e7056-5aa7-447b-b314-0f32fd40fbb7)
 
-## Añadan un nuevo jugador Bob que responda con ROBAR en las partidas impares, y con COLABORAR con las partidas impares.
+## Añadan un nuevo jugador Bob que responda con ROBAR en las partidas impares, y con COLABORAR con las partidas pares.
 
 * Crear una clase JugadorBob que extienda Jugador.
 * Determinar si la partida es par o impar y decidir su acción.
   
 * bob jugando 5 partidas contra colaborador
 
+![image](https://github.com/user-attachments/assets/1b442794-8351-42b9-884e-23a167b9ff6b)
 
 
 * bob jugando 5 partidas contra alice
 
+![image](https://github.com/user-attachments/assets/5d6048bd-490b-40ac-bb5e-f9ac23c2c370)
     
+
+## Añadan un nuevo jugador Charlie que su primera partida decida COLABORAR y en las siguientes imite la jugada previa de su rival.
+
+* Crear una clase JugadorCharlie que extienda Jugador.
+* Determinar si la partida es par o impar y decidir su acción.
+  
+* charlie jugando 5 partidas contra alice
+
+
+
+
+* charlie jugando 5 partidas contra bob
+
+
 
 ### Comentarios acerca de la tarea
 
