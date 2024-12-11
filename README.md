@@ -46,6 +46,8 @@
 * Aquí eligiendo los jugadores
 ![image](https://github.com/user-attachments/assets/82d4a135-ac21-4f6c-b35a-1717c9591d94)
 
+*No he podido realizar algo interactivo
+
   
 
 ### Prueba de la tarea en modelo Pixel 8 API 35
