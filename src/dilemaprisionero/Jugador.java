@@ -10,6 +10,10 @@ abstract class Jugador implements Runnable {
         this.id = id;
     }
 
+    public int getId() {
+        return id;
+    }
+
     // Método que debe ser implementado por las subclases
     public abstract Accion decidirAccion();
 
