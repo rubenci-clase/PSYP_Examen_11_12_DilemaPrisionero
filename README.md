@@ -48,15 +48,7 @@
 
 *No he podido realizar algo interactivo
 
-  
 
-### Prueba de la tarea en modelo Pixel 8 API 35
-
-
-
-### Prueba de la tarea en modelo Pixel Fold API 
-
-
-## Comentarios
+## Se puede jugar de manera remota desde diversos ordenadores.
 
 
