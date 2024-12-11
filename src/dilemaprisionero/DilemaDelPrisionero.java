@@ -3,6 +3,7 @@ package dilemaprisionero;
 public class DilemaDelPrisionero {
 
     public static void main(String[] args) throws InterruptedException {
+        
         int numeroDePartidas = 5; // Número de partidas, se puede modificar.
 
         // Mostrar mensaje de inicio
@@ -18,6 +19,8 @@ public class DilemaDelPrisionero {
             Thread alice = new Thread(new JugadorAlice(3));
             Thread bob = new Thread(new JugadorBob(4));
             Thread charlie = new Thread(new JugadorCharlie(5));
+            
+            
 
             // Crear la partida
             Partida partida = new Partida(alice, charlie);
@@ -26,5 +29,6 @@ public class DilemaDelPrisionero {
 
         // Mostrar mensaje de finalización
         System.out.println("\nJuego terminado. ¡Gracias por jugar!");
+        
     }
 }
