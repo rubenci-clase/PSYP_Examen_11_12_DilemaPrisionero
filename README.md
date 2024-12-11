@@ -34,15 +34,19 @@
 * charlie jugando 5 partidas contra alice
 
 
-
-
 * charlie jugando 5 partidas contra bob
 
 
 
-### Comentarios acerca de la tarea
+## Explicar cómo puede el profesor ejecutar un juego de 10 partidas con los jugadores que elija.
 
+* Eligiendo 10 ahí
+![image](https://github.com/user-attachments/assets/4a66cbc1-2bb5-4d72-b0a0-6c2c3151637a)
 
+* Aquí eligiendo los jugadores
+![image](https://github.com/user-attachments/assets/82d4a135-ac21-4f6c-b35a-1717c9591d94)
+
+  
 
 ### Prueba de la tarea en modelo Pixel 8 API 35
 
